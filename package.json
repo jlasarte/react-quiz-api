@@ -1,0 +1,26 @@
+{
+  "name": "react-quiz-api",
+  "version": "1.0.0",
+  "description": "API for kq",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlasarte/react-quiz-api.git"
+  },
+  "keywords": [
+    "api",
+    "server"
+  ],
+  "author": "jlasarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlasarte/react-quiz-api/issues"
+  },
+  "homepage": "https://github.com/jlasarte/react-quiz-api#readme",
+  "devDependencies": {
+    "restify": "^4.1.1"
+  }
+}
